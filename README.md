@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @edves634
   
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning java
 
 
 <!---
